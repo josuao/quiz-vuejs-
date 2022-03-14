@@ -1,0 +1,20 @@
+[
+    {
+      "id": "1",
+      "question": "Quelle est l'année de la decouverte de l'Amerique par Christophe Colomb ?",
+      "resultat": "1492",
+      "tableauReponse" : ["1492", "1708", "1996", "750"]
+    },
+    {
+      "id": "2",
+      "question": "Qui a écrit le seigneur des anneaux ?",
+      "resultat": "John Ronald Reuel Tolkien",
+      "tableauReponse" : ["Joanne Rowling", "Mary Shelley", "John Ronald Reuel Tolkien", "William Shakespeare"]
+    },
+    {
+      "id": "3",
+      "question": "Dans le jeu vidéo Metal Gear Solid, quel est le surnom du personnage principal ?",
+      "resultat": "Snake",
+      "tableauReponse" : ["Fox", "Cat", "Tiger", "Snake"]
+    }
+  ]
